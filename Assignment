@@ -1,0 +1,97 @@
+
+// 1. Take two numbers a,b and print the sum, difference, product, quotient and modulus of a & b
+// let a =2;
+// let b =3;
+// console.log(a+b);
+// console.log(a-b);
+// console.log(a/b);
+// console.log(a*b);
+// console.log(a%b);
+
+
+// 2. Take two numbers and only print the integer part when a is divided by b.
+// let a = 3;
+// let b = 2;
+// console.log(parseInt(a/b))
+// console.log(Math.floor(a/b))
+// console.log(Math.trunc(a/b))
+// console.log(~~(a/b))
+
+
+// 3. Take two numbers a,b and print the exponential power of the first number raised by the second.
+// let a = 3;
+// let b = 3;
+// console.log(a**b)
+
+
+// 4. Take two numbers a,b and only print the decimal part of the result obtained when a is divided by b.
+// let a= 3;
+// let b= 4;
+// console.log(a/b)
+
+
+// 5. Take marks in 5 subjects A,B,C,D,E and print out the average of marks from five subject marks.
+// let a= 73;
+// let b= 82;
+// let c= 50;
+// let d= 91;
+// let e= 80;
+// console.log((a+b+c+d+e)*100/500)
+
+
+// 6. Take the cost price a and selling price b of a product, and print the profit obtained on the product.
+// profit= selling price-cost price
+// sp= 500;
+// cp=390;
+// console.log("profit obtained on the product : ",sp-cp)
+
+
+// 7. Take a number and print out the last digit of the number.
+// let a= 2024;
+// console.log(a%10)
+
+
+// 8. Take a 2 digit number and return the first and last digits.
+// let a=98;
+// console.log("First digit number is : ", parseInt(a/10))
+// console.log("last digit number : ", a%10)
+
+
+// 9. Write a JavaScript program to find the largest of three numbers.
+// let a=50;
+// let b=10;
+// let c=30;
+// console.log(Math.max(a,b,c))
+
+// 10. Write a JavaScript program to check whether a number is even or odd.
+// let a= 10;
+// if (a%2==0){
+//     console.log("The number is even");
+// }
+// else{
+//     console.log("number is odd");
+// }
+
+
+// 11. Write a JavaScript program to check whether a given number is prime or not.
+// let a= 9;
+// let c=0;
+// for (let i=1;i<=10;i++){
+//     if (a%i==0){
+//         c++;
+//     }
+// }
+// if (c==2){
+//     console.log("IT is a Prime number");
+// }
+// else{
+//     console.log("Not a prime number");
+// }
+
+
+
+
+
+
+
+
